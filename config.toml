@@ -1,4 +1,4 @@
-baseURL = "http://curcio.dev/"
+baseURL = ""
 languageCode = "en-us"
 title = "Curcio Dev"
 theme = "uilite"
