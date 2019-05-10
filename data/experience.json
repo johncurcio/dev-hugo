@@ -1,0 +1,15 @@
+{
+	"title" : "Experience",
+	"experience" : [
+		{
+			"timeperiod" : "May 2016 - Jul 2016",
+			"company" : "Silver Spring Networks",
+			"description" : "Assessed the feasibility of deploying a new EV charging station with Silver Spring Networks IoT router. "
+		},
+		{
+			"timeperiod" : "Sep 2016 - Present",
+			"company" : "Visagio",
+			"description" : "Management and development of projects in business intelligence and management engineering, using chiefly Java and Ruby on Rails."
+		}
+	]
+}

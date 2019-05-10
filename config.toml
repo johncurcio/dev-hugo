@@ -1,0 +1,4 @@
+baseURL = "http://curcio.dev/"
+languageCode = "en-us"
+title = "Curcio Dev"
+theme = "uilite"
