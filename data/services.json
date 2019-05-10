@@ -4,12 +4,12 @@
 		{
 			"icon" : "university",
 			"title" : "UFRJ",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"description" : "B.A. in Computer Science with focus on software engineering, business intelligence and web semantics."
 		},
 		{
 			"icon" : "copyright",
 			"title" : "Cornell",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"description" : "Year abroad in Computer Science with focus on security and software engineering."
 		}
 	]
 }
