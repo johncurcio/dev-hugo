@@ -1,14 +1,14 @@
 {
-	"title" : "Services",
+	"title" : "Education",
 	"services" : [
 		{
-			"icon" : "pencil-ruler",
-			"title" : "Logo Design",
+			"icon" : "university",
+			"title" : "UFRJ",
 			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
 		},
 		{
-			"icon" : "pen-nib",
-			"title" : "Graphics Design",
+			"icon" : "copyright",
+			"title" : "Cornell",
 			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
 		}
 	]
