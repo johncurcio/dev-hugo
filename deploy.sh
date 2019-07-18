@@ -7,6 +7,8 @@ hugo -t uilite # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 # Go To Public folder
 cd public
+# pull changes first
+git pull
 # Add changes to git.
 git add .
 
